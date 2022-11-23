@@ -14,4 +14,8 @@ public class TestController {
         System.out.println("punch");
     }
 
+    public void cat(){
+        System.out.println("catcat");
+    }
+
 }

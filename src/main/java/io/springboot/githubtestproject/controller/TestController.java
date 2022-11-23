@@ -18,4 +18,7 @@ public class TestController {
         System.out.println("catcat");
     }
 
+    public void pow(){
+        System.out.println("powpow");
+    }
 }

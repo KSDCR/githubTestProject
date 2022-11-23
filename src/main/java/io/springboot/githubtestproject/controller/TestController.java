@@ -15,4 +15,7 @@ public class TestController {
         System.out.println("punch");
     }
 
+    public void pow(){
+        System.out.println("powpow");
+    }
 }

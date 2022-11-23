@@ -11,7 +11,7 @@ public class TestController {
     }
 
     public void punch(){
-        System.out.println("punch punch");
+        System.out.println("punch");
     }
 
 }

@@ -4,8 +4,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class TestController {
-
-
+    
     /** 안녕안녕 */
     public void gom(){
         System.out.println("gomgom");
